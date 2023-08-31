@@ -1,5 +1,5 @@
 # 🔥 Team Sehbeom School Algorithm Study
-
+🎹 코딩이 안되면 세범스쿨 🎵
 <br>
 
 ## 📝 운영 방식
