@@ -1,5 +1,5 @@
 # 🔥 Team Sehbeom School Algorithm Study
-
+🎹 코딩이 안되면 세범스쿨 🎵
 <br>
 
 ## 📝 운영 방식
@@ -29,6 +29,32 @@ git commit -m "[BOJ] 11111 Hello World / 브론즈5 (#0)" -m "https://www.acmicp
 <br>
 
 ## 👩🏻‍💻🧑🏻‍💻 Members
-|[Sehbeom](https://github.com/Sehbeom)|[limzzum](https://github.com/limzzum)|[suchshin](https://github.com/suchshin)|[yeonjae0](https://github.com/yeonjae0)|[EuijunK](https://github.com/EuijunK)|[PoLyBear2](https://github.com/PoLyBear2)|
-|-|-|-|-|-|-|
+
+<table>
+ <tr>
+    <td align="center"><a href="https://github.com/Sehbeom"><img src="https://avatars.githubusercontent.com/Sehbeom" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/limzzum"><img src="https://avatars.githubusercontent.com/limzzum" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/suchshin"><img src="https://avatars.githubusercontent.com/suchshin" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/yeonjae0"><img src="https://avatars.githubusercontent.com/yeonjae0" width="130px;" alt=""></a></td>
+   <td align="center"><a href="https://github.com/EuijunK"><img src="https://avatars.githubusercontent.com/EuijunK" width="130px;" alt=""></a></td>
+   <td align="center"><a href="https://github.com/PoLyBear2"><img src="https://avatars.githubusercontent.com/PoLyBear2" width="130px;" alt=""></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Sehbeom"><b>Sehbeom</b></a></td>
+    <td align="center"><a href="https://github.com/limzzum"><b>limzzum</b></a></td>
+    <td align="center"><a href="https://github.com/suchshin"><b>suchshin</b></a></td>
+    <td align="center"><a href="https://github.com/yeonjae0"><b>yeonjae0</b></a></td>
+    <td align="center"><a href="https://github.com/EuijunK"><b>EuijunK</b></a></td>
+    <td align="center"><a href="https://github.com/PoLyBear2"><b>PoLyBear2</b></a></td>
+  </tr>
+  <tr> 
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
+  </tr> 
+</table>
+
 
