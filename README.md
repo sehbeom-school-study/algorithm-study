@@ -29,6 +29,6 @@ git commit -m "[BOJ] 11111 Hello World / 브론즈5 (#0)" -m "https://www.acmicp
 <br>
 
 ## 👩🏻‍💻🧑🏻‍💻 Members
-|[Sehbeom](https://github.com/Sehbeom)|[limzzum](https://github.com/limzzum)|[suchshin](https://github.com/suchshin)|[yeonjae0](https://github.com/yeonjae0)|
-|-|-|-|-|
+|[Sehbeom](https://github.com/Sehbeom)|[limzzum](https://github.com/limzzum)|[suchshin](https://github.com/suchshin)|[yeonjae0](https://github.com/yeonjae0)|[EuijunK](https://github.com/EuijunK)|[PoLyBear2](https://github.com/PoLyBear2)|
+|-|-|-|-|-|-|
 
